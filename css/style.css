@@ -74,4 +74,11 @@ body {
   text-decoration: none;
 }
 
+@media (max-width: 960px) {
+  .container {
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+}
+
 
