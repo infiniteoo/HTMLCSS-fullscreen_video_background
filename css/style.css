@@ -10,3 +10,12 @@ body {
   color: #333;
   overflow-x: hidden;
 }
+
+.v-header {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+
